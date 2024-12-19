@@ -1,5 +1,7 @@
-# git-template
-git command template
+# Wiki
+Memorandums
+
+## git command template
 
 Execute each command from the top one.
 
@@ -31,3 +33,5 @@ git pull origin main
 ```sh
 git push -u origin main
 ```
+
+## aerc configuration
